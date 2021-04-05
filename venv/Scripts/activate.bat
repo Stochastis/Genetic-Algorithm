@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\cross\PycharmProjects\Personal-Repository\GA Project\venv
+set VIRTUAL_ENV=C:\Users\214475\Documents\GitHubRepositories\Genetic-Algorithm\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
